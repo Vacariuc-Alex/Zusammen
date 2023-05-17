@@ -1,0 +1,287 @@
+/*
+*   Quick content and guidance for searching classes!!!
+*   1. Document settings
+*   2. Header Settings
+*   3. footer settings
+*
+*/
+
+
+
+/*Document settings*/
+* {box-sizing: border-box;}
+
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Header Settings*/
+.header {
+    overflow: hidden;
+    background-color: #934cce;
+    padding: 10px 100px;
+}
+
+.header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    margin-top:12px;
+    margin-right: 16px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+.header img.logo {
+  width: 100px;
+  height: 80px;
+  border-radius: 36%;
+}
+
+.header a.inactive {
+  background-color: #91c4ff;
+  color: black;
+  font-family: cursive, sans-serif;
+}
+
+.header a.active {
+  background-color: #da9522;
+  color: white;
+  font-family: cursive, sans-serif;
+}
+
+.header a:hover {
+    background-color: #86e07e;
+    color: white;
+    font-family: cursive, sans-serif;
+}
+
+.header-right {
+  float: right;
+}
+
+.header img.avatar{
+    margin-top: 14px;
+    margin-left: 5rem;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 100%;
+}
+
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+  .header-right {
+    float: none;
+  }
+}
+
+@media only screen and (min-width: 720px) {
+
+    .header {
+        padding: 10px 50px;
+    }
+
+    .header img.avatar{
+        margin-top: 14px;
+        margin-left: 3rem;
+        height: 3rem;
+        width: 3rem;
+        border-radius: 100%;
+    }
+}
+
+/*content settings*/
+.content{
+    background-color: #f1f1f1;
+    display: block;
+    justify-content: center;
+    margin: 2rem;
+    padding: 0;
+    max-width: 92rem;
+}
+
+.grid-container {
+    display: grid;
+    grid-column-gap: 1px;
+    grid-template-columns: auto auto auto;
+    background-color: #f1f1f1;
+    padding: 15px;
+}
+
+.grid-item {
+    height: 180px;
+    padding: 1rem;
+    border: 1px solid #FFF;
+    text-align: left;
+}
+
+    .grid-item:hover {
+        opacity: 0.7;
+    }
+
+.vocabulary{
+    background: #da9328;
+    grid-column-gap: 1px;
+}
+
+.readingA1{
+    background: #F08C00;
+}
+
+.readingA2{
+    background: #0098FF;
+}
+
+.readingB1{
+    background: #BE0046;
+}
+
+.readingB2{
+    background: #38a9bc;
+}
+
+.listeningA1{
+    background: #DC1978;
+}
+
+.listeningA2{
+    background: #1464A5;
+}
+
+.listeningB1{
+    background: #0d7829;
+}
+
+.listeningB2{
+    background: #91B423;
+}
+
+.grammarA1{
+    background: #82a300;
+}
+
+.grammarA2{
+    background: #9d2a9f;
+}
+
+.grammarB1{
+    background: #DC1978;
+}
+
+.grammarB2{
+    background: #E1500F;
+}
+
+
+.vocLevel{
+    font-size: 54px;
+    line-height: 64px;
+    width: auto;
+    margin: 0;
+    color: #fff;
+    text-align: center;
+}
+
+.vocClass{
+    font-size: 22px;
+    line-height: 25px;
+    margin: 10px 7px 0 16px;
+    color: #ece2e2;
+    text-align: center;
+}
+
+
+.vocType{
+    font-size: 15px;
+    line-height: 20px;
+    clear: left;
+    overflow: visible;
+    color: #edeedb;
+    text-align: center;
+    margin-top: 1.2rem;
+}
+
+
+
+.exLevel{
+    font-size: 54px;
+    line-height: 64px;
+    display: inline;
+    width: auto;
+    margin: 0;
+    color: #fff;
+}
+
+.exClass{
+    font-size: 22px;
+    line-height: 25px;
+    margin: 32px 7px 0 16px;
+    display: inline-block;
+    color: #ece2e2;
+}
+
+
+.exType{
+    font-size: 15px;
+    line-height: 20px;
+    clear: left;
+    max-width: 95%;
+    max-height: 60%;
+    overflow: visible;
+    color: #edeedb;
+}
+
+
+/*footer settings*/
+.footer{
+    display: block;
+}
+
+.footer_space_bar{
+    margin: 0 24px 48px;
+    border: 0;
+    border-top: 2px solid #e5e5e5;
+    height: 0;
+}
+
+.references_holder_div_footer{
+    margin: 0 auto;
+    padding-bottom: 28px;
+}
+
+.list_for_references_footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.list_item_reference_footer {
+    margin: 0 12px 20px;
+}
+
+.a_reference_footer{
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .8px;
+    text-transform: uppercase;
+    color: #afafaf;
+    text-decoration: none;
+    font-family: din-round, sans-serif;
+}
+
+.list_item_reference_footer :hover{
+    color: #1899d6;
+}

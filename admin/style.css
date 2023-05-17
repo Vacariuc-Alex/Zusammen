@@ -1,0 +1,98 @@
+/*
+*   Quick content and guidance for searching classes!!!
+*   1. Document settings
+*   2. Basic design for addword menu
+*   3. Design for gate
+*
+*/
+
+
+/*Document Settings*/
+body{
+    background-color: lavender;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button{
+    color: #fff;
+    background: #555;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    width: 50%;
+    margin: auto;
+    margin-left: 6rem;
+}
+
+
+/*Basic design for addword menu*/
+form.add_words{
+    background: lightgray;
+    border: 2px solid slategray;
+    padding: 30px;
+    width: 25rem;
+    border-radius: 15px;
+}
+
+form.add_words input{
+    border: 2px solid #ccc;
+    display: block;
+    width: 95%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+form.add_words label{
+    color: darkslategray;
+    font-size: 20px;
+    padding: 1rem;
+}
+
+.form-select{
+    display: block;
+    width: 95%;
+    padding: .375rem 2.25rem .375rem .75rem;
+	margin-left: 2.5%;
+	margin-bottom: 1.5rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: right .75rem center;
+    background-size: 16px 12px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    appearance: none;
+}
+
+
+/*Design for gate*/
+form.gate{
+    box-sizing: border-box;
+    background: lightgray;
+    border: 2px solid #ccc;
+    padding: 30px;
+    width: 30rem;
+    border-radius: 15px;
+}
+
+form.gate label{
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 7rem;
+}
+
+form.gate input{
+    border: 2px solid #ccc;
+    width: 95%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+}

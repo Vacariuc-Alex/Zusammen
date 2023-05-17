@@ -1,0 +1,145 @@
+{
+    "title": {
+        "home": "Acasă",
+        "lessons": "Lecții",
+        "chat": "Conversație",
+        "dictionary": "Dicţionar",
+        "settings": "Setări"
+    },
+    "header":["Deconectați-vă", "Setări", "Dicţionar", "Conversație", "Lecții", "Acasă"],
+    "footer":["Termeni", "Despre noi", "Locație", "Contactează-ne", "Politica de Confidențialitate"],
+    "dictionary":{
+        "dictionary": "Dicţionar",
+        "placeholder":"căutare ...",
+        "translate": "Traduceți",
+        "messages":{
+            "welcome": "Bine aţi venit să folosiţi dicţionarul pentru a traduce cuvinte necunoscute!",
+            "notfound": "Nu a fost găsită nicio căutare!",
+            "empty": "Vă rugăm să completați caseta de text!"
+        }
+    },
+    "settings": {
+        "save_changes_button": "salvați modificările",
+        "menu_settings_bar": {
+            "account": "Cont",
+            "profile": "Profil",
+            "password": "Parola",
+            "language": "Limba"
+        },
+        "account" :{
+            "title": "Setările de cont",
+            "name": "Nume",
+            "email": "E-mail",
+            "picture": "Poză de profil",
+            "max_image_size": "Dimensiunea maximă a imaginii este de 1 MB",
+            "delete_acc" : "Șterge contul meu"
+        },
+        "profile" :{
+            "title": "Setari de profil",
+            "location": "Locație",
+            "hobby": "Hobby",
+            "bio": "Bio"
+        },
+        "password" :{
+            "title": "Setările de parolă",
+            "current": "Parola actuală",
+            "new": "Parolă nouă",
+            "confirm": "Confirmați parola nouă"
+        },
+        "language": {
+            "title": "Setări de limbă"
+        }
+    },
+    "chat": {
+        "lives": "Trăiește în : ",
+        "info": "informaţie",
+        "email": "E-mail",
+        "born": "Născut la",
+        "about": "Despre",
+        "hobby": "Hobby",
+        "bio": "Bio"
+    },
+    "home": {
+        "par1": "Zusammen este o nouă platformă lingvistică concepută pentru a vă ajuta să învățați o limbă străină fără stres și într-un mod interactiv. Aici veți putea găsi noi prieteni, puteți comunica cu ei și veți găsi răspunsuri la întrebările dvs. În același timp, veți avea o varietate de texte și exerciții grupate pe niveluri care vă vor ajuta să vă îmbunătățiți capacitatea de a citi, de a răspunde la întrebări și de a gândi într-o limbă nouă. Cu atât mai mult, Zusammen este absolut gratuit. Bine ai venit și alătură-te nouă!",
+
+        "title1": "Povestea noastră",
+
+        "par2": "Numele nostru „Zusammen” provine din cuvântul german care înseamnă „împreună”. Inspirați de metoda modernă de comunicare și interacțiune socială, am decis să creăm un sistem de chat și un set de exerciții interactive care să le permită utilizatorilor să comunice între ei și să își dezvolte abilitățile de gândire într-o limbă străină.",
+
+        "par3": "Această platformă este deschisă tuturor oamenilor și pentru toate categoriile de vârstă!",
+
+        "title2": "Educaţie",
+
+        "par4": "Oferim cursuri de limbi străine de la nivelul începător A1 până la nivelul intermediar superior B2. Puteți urma cursurile noastre în ordine sau puteți studia și examina subiectele care vă sunt cele mai relevante!"
+    },
+    "terms":{
+        "name": "Termeni și condiții de utilizare",
+        "title1": "General",
+        "title2": "Descriere",
+        "title3": "Înregistrare",
+        "title4": "Restricții",
+        "title5": "Rezilierea",
+        "title6": "Confidențialitate",
+        "title7": "Limba",
+        "par1": "Site-ul web Zusammen este o platformă lingvistică și o teză de diplomă care urmează să fie prezentată la CEEF. Acest proiect a fost dezvoltat de Vacariuc Alex, student al grupului PAP1714 la CEEF, coordonat de Vasilache Grigore, profesor de baze de date la CEEF. Accesul și utilizarea platformei sunt supuse următoarelor Condiții de utilizare („Termeni și condiții”). Prin accesarea sau utilizarea oricărei părți a platformei, declarați că ați citit, înțeles și sunteți de acord să fiți legat de acești Termeni și condiții, inclusiv orice modificări viitoare.",
+        "par2": "Platforma permite utilizatorilor să acceseze și să utilizeze o varietate de servicii educaționale, inclusiv învățarea sau practicarea unei limbi. Zusammen poate, la propria sa discreție și în orice moment, să actualizeze, să schimbe, să suspende, să aducă îmbunătățiri sau să întrerupă orice aspect al serviciului, temporar sau permanent.",
+        "par3": "În legătură cu înregistrarea și utilizarea platformei, sunteți de acord să furnizați informații corecte, actuale și complete despre dvs., după cum vi se solicită; să vă păstrați confidențial parola și alte informații despre contul dvs.; să mențină și să actualizeze cu promptitudine orice informații de înregistrare pe care le furnizați către Zusammen, pentru a menține aceste informații corecte, actuale și complete; și să fii pe deplin responsabil pentru orice utilizare a contului tău și pentru orice acțiune care are loc prin intermediul contului tău.",
+        "par4": "Nu veți încărca, afișa sau furniza în alt mod pe sau prin intermediul conținutului platformei care: este defăimător, defăimător, abuziv, amenințător, hărțuitor, urăsc, ofensator sau încalcă orice lege sau încalcă drepturile oricărei terțe părți, inclusiv drepturile de autor, mărcile comerciale, confidențialitatea, publicitate sau alte drepturi personale sau de proprietate; sau în opinia exclusivă a Zusammen, este inacceptabil sau restricționează sau inhibă orice altă persoană de la utilizarea Serviciului sau care poate expune Zusammen sau utilizatorii săi la orice prejudiciu sau răspundere de orice fel.",
+        "par5": "Zusammen vă poate închide accesul și vă poate șterge contul imediat în orice moment, din orice motiv și nu vi se va mai permite să vă folosiți contul. Nu vă puteți închide contul dacă încălcați restricțiile de mai sus.",
+        "par6": "Utilizarea Serviciului este, de asemenea, guvernată de Politica noastră de confidențialitate, a cărei copie este disponibilă la Politica de confidențialitate. Prin utilizarea Serviciului, sunteți de acord cu termenii Politicii de confidențialitate",
+        "par7": "Toate informațiile de pe platformă au fost scrise inițial în engleză (SUA). În măsura în care orice versiune tradusă a acestui Acord intră în conflict cu versiunea în limba engleză, versiunea în limba engleză controlează."
+    },
+    "about":{
+        "title":"Despre noi",
+        "head1":"Învăţare",
+        "head2":"Distracţie",
+        "head3":"Gratuit",
+        "par1":"Fiecare persoană are propriile preferințe de studiu. Unii preferă în grupuri mari de oameni, alții preferă singuri. Dar, în ciuda faptului că suntem atât de diferiți, vom încerca să găsim modalități prin care învățarea să devină un lucru esențial și preferat pentru persoana respectivă.",
+        "par2":"Scopul nostru final este să oferim experiență și plăcerea de a studia ceva nou, să simțim cultura și modul de gândire al oamenilor din străinătate.",
+        "par3":"Este dificil să rămâi motivat atunci când înveți online, pentru unii acest lucru pare ofensator sau practic imposibil. De aceea am încercat să facem platforma noastră cât mai distractivă și sperăm că veți avea rezultate frumoase după ce ați călătorit în lumea limbilor străine.",
+        "par4":"Am creat Zusammen astfel încât toată lumea să aibă șansa de a-și petrece timpul prețios făcând lucruri distractive și utile în același timp. Oferim educație lingvistică gratuită - fără taxe ascunse, fără conținut premium, doar gratuit."
+    },
+    "contact":{
+        "text1":"Contactează-ne",
+        "text2":"Întâmpinați probleme?",
+        "text3":"Vă rugăm să contactați e-mailul: <a href = \"mailto: pap1714vacariucalex@gmail.com\"> pap1714vacariucalex@gmail.com <a>"
+    },
+    "privary":{
+        "title":"Politica de Confidențialitate",
+        "head1":"General",
+        "head2":"Informații generale",
+        "head3":"Cookie-uri",
+        "head4":"Link-uri",
+        "head5":"Securitatea informațiilor",
+        "par1":"La Zusammen, ne pasă de informațiile dvs. personale, așa că am pregătit această politică de confidențialitate pentru a explica modul în care le colectăm, folosim și împărtășim.",
+        "par2":"Această Politică de confidențialitate („Politica de confidențialitate”) detaliază datele personale pe care Zusammen le primește despre dvs., modul în care le prelucrăm și drepturile și obligațiile dvs. cu privire la datele dvs. personale.",
+        "par3":"Prin utilizarea sau accesarea serviciului, sunteți de acord cu termenii acestei politici de confidențialitate. Termenii cu majuscule care nu sunt definiți aici au semnificațiile stabilite în termeni și condiții („Termeni și condiții”). Este posibil să ne actualizăm politica de confidențialitate pentru a reflecta modificările practicilor noastre de divulgare.",
+        "par4":"Această politică de confidențialitate explică modul în care colectăm, folosim și partajăm datele dvs. personale.",
+        "par5":"Prin procesul de înregistrare, ne veți furniza numele, adresa de e-mail și vârsta sau data nașterii.",
+        "par6":"Colectăm doar datele de care avem nevoie, ceea ce înseamnă că nu înregistrăm sau partajăm: Nume utilizator, Nume, Imagini de profil, E-mail, Adrese, Locații sau biografii pe pagina de profil, Parole",
+        "par7":"Când accesați site-ul web, colectăm preferințele lingvistice. Date precum numele de utilizator sunt păstrate în sesiuni și vor fi distruse după deconectare",
+        "par8":"Serviciul poate conține linkuri către alte site-uri web. Nu suntem responsabili pentru practicile de confidențialitate ale altor site-uri web. Încurajăm utilizatorii să fie conștienți atunci când părăsesc Serviciul să citească declarațiile de confidențialitate ale altor site-uri web care colectează informații de identificare personală. Această politică de confidențialitate se aplică numai informațiilor colectate de Zusammen prin intermediul serviciului.",
+        "par9":"Zusammen a implementat măsuri de protecție administrativă și tehnică pe care le consideră adecvate pentru a proteja confidențialitatea, integritatea și disponibilitatea datelor dvs. personale, a fotografiei utilizatorului și a acreditării de acces. Cu toate acestea, având în vedere resursele suficiente, un atacator hotărât ar putea depăși aceste măsuri de securitate și, ca urmare, poate obține acces la datele pe care dorim să le protejăm.",
+        "par10":"Toate parolele și conversațiile sunt criptate, vă recomandăm să utilizați parole cât mai stricte și fiabile"
+    },
+    "learning":{
+        "voc": "Vocabular",
+        "voc2": "Bună ocazie de a învăța ceva nou!",
+        "voc3": "Comunicarea cu succes depinde de o bună bază de vocabular. Folosirea cuvintelor potrivite atunci când vorbești, te face un comunicator mai eficient. A avea un vocabular bun din care să trageți te poate ajuta să scrii mai eficient. Toată lumea trebuie să folosească un ton mai formal atunci când scrie - nu un limbaj conversațional - și pentru a face acest lucru, aveți nevoie de un vocabular mai bogat pentru a atinge acele cuvinte pe care nu le folosim atunci când vorbim.",
+        "rd": "Citire",
+        "rd1": "O modalitate excelentă de a învăța cuvinte noi și de a vă îmbunătăți abilitățile de citire, dacă sunteți începător, nu ezitați să faceți clic!",
+        "rd2": "Dacă puteți înțelege propoziții și expresii utilizate frecvent, nu ezitați să luați aceste exerciții de lectură!",
+        "rd3": "Dacă puteți înțelege principalele puncte de intrare standard clare pe probleme familiare, atunci acest curs este perfect pentru dvs.!",
+        "rd4": "Dacă puteți înțelege ideile principale ale unui text complex pe teme concrete, atunci aceste texte vă vor ajuta să vă ridicați!",
+        "ls": "Ascultare",
+        "ls1": "Ascultarea este modul în care învățăm mai întâi cuvinte și poate avea un impact profund asupra modului în care învățăm să le pronunțăm și să le folosim!",
+        "ls2": "Dacă puteți comunica în sarcini simple care necesită un schimb direct de informații cu privire la chestiuni familiare, bine ați venit aici!",
+        "ls3": "Dacă puteți face față majorității situațiilor în timp ce călătoriți în străinătate, atunci veți găsi dialoguri interesante!",
+        "ls4": "Dacă poți interacționa cu un grad de fluență și spontaneitate, atunci acest dialog ar fi o practică bună pentru tine!",
+        "gr": "Gramatică",
+        "gr1": "Gramatica ajută la plasarea corectă a cuvintelor într-o propoziție. Utilizarea implică utilizarea cuvântului potrivit!",
+        "gr2": "Dacă poți descrie pur și simplu aspecte din trecutul său, atunci ești pregătit pentru câteva exerciții de gramatică ușoare!",
+        "gr3": "Dacă puteți produce text simplu conectat pe subiecte familiare, atunci o pregătire gramaticală vă va ajuta să vă dezvoltați!",
+        "gr4": "Dacă puteți produce text clar și detaliat pe o gamă largă de subiecte, atunci acest nivel de gramatică va fi cel mai potrivit pentru dvs.!"
+    }
+}

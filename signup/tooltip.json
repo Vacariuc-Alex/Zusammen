@@ -1,0 +1,12 @@
+{
+    "title":[
+        "Please enter yoor name and lastname",
+        "Please enter your email",
+        "Please enter your date of birth",
+        "Your current country, district and city",
+        "Please enter your password. It shoud contain at least one small letter, one capital letter, one symbol and one digit. Password must be at least 8 characters long in order to make it more secure",
+        "Re-enter the previous password",
+        "The site will be displayed in it",
+        "The language you want to study"
+    ]
+}
